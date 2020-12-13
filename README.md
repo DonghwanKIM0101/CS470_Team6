@@ -1,6 +1,7 @@
-# CS470_Team6
-Style-Preserving Image Translation from Korean to English
+# Style-Preserving Image Translation from Korean to English
+Style-Preserving Image Translation from Korean to Englis
 
+=======
 KAIST CS470 Introduction to Altificial Intelligence
 
 Authorized [Yeongho Jeong](https://github.com/jyeongho)
@@ -12,6 +13,12 @@ Authorized [Seeha Lee](https://github.com/ee12ha0220)
 Authorized [SeungilLee](https://github.com/ChoiIseungil)
 
 -----------
+
+## Introduction
+The unique style of the text is an important element of graphic design. The color, font, and texture of each text convey information to the reader. There are well-known translator mobile applications that are capable of doing this; Google translator and Naver Papago for example. But these translators cannot preserve the style of the text at all. This project aims to translate text in the wild, while preserving original text style, especially from Korean to English.
+
+<<Style-Preserving Image Translation from Korean to English(리포트 주소)>>
+
 
 # Usage
 
@@ -52,3 +59,10 @@ Or, you can just use our pretrained model, [train_step-30000.model](https://driv
 ## Predict
 
 In [source](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_test/test_image), put the source image that contain Korean texts , and run all cells in [Kor_ocr_translation.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Kor_ocr_translation.ipynb). The outputs are generated in [result](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_test/result_image).
+
+## Results
+We tes
+
+## References
+[Synth
+[Easy OCR](https://github.com/JaidedAI/EasyOCR)
