@@ -21,9 +21,16 @@ We used Google Colab for training and predicting.
 
 * Clone this repository(in Google Colab):
 
+        import os
+        from google.colab import drive
+
+        if not os.path.exists('/content/drive'):
+                drive.mount('content/drive')
+        
+        %cd /content/drive/My Drive
         !git clone https://github.com/DonghwanKIM0101/CS470_Team6.git
         
-        !cd CS470_Team6
+        %cd CS470_Team6
 
 * Prepare Google Transalation key
 
