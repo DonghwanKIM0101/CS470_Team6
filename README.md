@@ -64,12 +64,12 @@ In [source](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_
 <img src="Results/neonsign.jpg" height="300px"></img><br/>
 
 
-<img src="Results/화장실키.jpg" height="300px"></img>
-<img src="Results/toiletkey.jpg" height="300px"></img><br/>
+<img src="Results/화장실키.jpg" height="225px"></img>
+<img src="Results/toiletkey.jpg" height="225px"></img><br/>
 
 
-<img src="Results/마녀.jpg" height="300px"></img>
-<img src="Results/witch.jpg" height="300px"></img><br/>
+<img src="Results/마녀.jpg" height="427px"></img>
+<img src="Results/witch.jpg" height="427px"></img><br/>
 
 ## References
 * [SynthText](https://github.com/ankush-me/SynthText): Used to synthesize background image and text to generate train dataset
