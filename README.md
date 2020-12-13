@@ -31,6 +31,8 @@ We used Google Colab for training and predicting.
 
 and edit the path of translation key in [Kor_ocr_translation.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Kor_ocr_translation.ipynb)
 
+* If Google Colab print error message "RESTART RUNTIME", just restart runtime solve the error.
+
 ## Train
 
 Original [SRNet](https://github.com/Niwhskal/SRNet) edit text from English to English, but our model need a style conversion model from Korean to English.
