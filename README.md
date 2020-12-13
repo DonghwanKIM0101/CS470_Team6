@@ -62,12 +62,10 @@ In [source](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_
 ## Results
 <img src="Results/네온사인.jpg" height="300px"></img>
 <img src="Results/neonsign.jpg" height="300px"></img><br/>
-![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/네온사인.jpg?raw=true)
-![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/neonsign.jpg?raw=true)
-![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/화장실키.jpg?raw=true)
-![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/toiletkey.jpg?raw=true)
-![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/마녀.jpg?raw=true)
-![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/witch.jpg?raw=true)
+<img src="Results/화장실키.jpg" height="300px"></img>
+<img src="Results/toiletkey.jpg" height="300px"></img><br/>
+<img src="Results/마녀.jpg" height="300px"></img>
+<img src="Results/witch.jpg" height="300px"></img><br/>
 
 ## References
 * [SynthText](https://github.com/ankush-me/SynthText): Used to synthesize background image and text to generate train dataset
