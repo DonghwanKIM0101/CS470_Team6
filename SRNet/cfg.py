@@ -21,13 +21,13 @@ write_log_interval = 50
 save_ckpt_interval = 100
 gen_example_interval = 1000
 checkpoint_savedir = 'logs/'
-# ckpt_path = '/content/drive/My Drive/SRNet/trained_final_5M_.model'
-ckpt_path = '/content/drive/My Drive/SRNet/logs/train_step-30000.model'
+# ckpt_path = '/content/drive/My Drive/CS470_Team6/SRNet/trained_final_5M_.model'
+ckpt_path = '/content/drive/My Drive/CS470_Team6/SRNet/logs/train_step-30000.model'
 
 # data
 batch_size = 8
 data_shape = [64, None]
-data_dir = '/content/drive/My Drive/SRNet/datasets/srnet_data'
+data_dir = '/content/drive/My Drive/CS470_Team6/SRNet/datasets/srnet_data'
 i_t_dir = 'i_t'
 i_s_dir = 'i_s'
 t_sk_dir = 't_sk'
