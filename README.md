@@ -62,8 +62,12 @@ In [source](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_
 ## Results
 <img src="Results/네온사인.jpg" height="300px"></img>
 <img src="Results/neonsign.jpg" height="300px"></img><br/>
+
+
 <img src="Results/화장실키.jpg" height="300px"></img>
 <img src="Results/toiletkey.jpg" height="300px"></img><br/>
+
+
 <img src="Results/마녀.jpg" height="300px"></img>
 <img src="Results/witch.jpg" height="300px"></img><br/>
 
