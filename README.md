@@ -26,7 +26,10 @@ We used Google Colab for training and predicting.
         !cd CS470_Team6
 
 * Prepare Google Transalation key
-(https://cloud.google.com/translate)
+
+[Google Cloud](https://cloud.google.com/translate)
+
+and edit the path of translation key in [Kor_ocr_translation.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Kor_ocr_translation.ipynb)
 
 ## Train
 
@@ -39,3 +42,4 @@ Or, you can just use our pretrained model, [train_step-30000.model](https://driv
 
 ## Predict
 
+In [source](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_test/test_image), put the source image that contain Korean texts , and run all cells in [Kor_ocr_translation.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Kor_ocr_translation.ipynb). The outputs are generated in [result](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_test/result_image).
