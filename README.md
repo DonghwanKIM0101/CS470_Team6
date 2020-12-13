@@ -4,16 +4,16 @@ KAIST 2020 Fall CS470 Introduction to Artificial Intelligence
 
 Authorized [Yeongho Jeong](https://github.com/jyeongho)
 
-Authorized [DonghwanKim](https://github.com/DonghwanKIM0101)
+Authorized [Donghwan Kim](https://github.com/DonghwanKIM0101)
 
 Authorized [Seeha Lee](https://github.com/ee12ha0220)
 
-Authorized [SeungilLee](https://github.com/ChoiIseungil)
+Authorized [Seungil Lee](https://github.com/ChoiIseungil)
 
 -----------
 
 ## Introduction
-The unique style of the text is an important element of graphic design. The color, font, and texture of each text convey information to the reader. There are well-known translator mobile applications that are capable of doing this; Google translator and Naver Papago for example. But these translators cannot preserve the style of the text at all. This project aims to translate text in the wild, while preserving original text style, especially from Korean to English.
+The unique style of the text is an important element of graphic design. The color, font, and texture of each text convey information to the reader. There are well-known translator mobile applications that are capable of doing this; Google translator and Naver Papago as an example. But these translators cannot preserve the style of the text at all. This project aims to translate text in the wild, while preserving original text style, especially from Korean to English.
 
 [Style-Preserving Image Translation from Korean to English](https://drive.google.com/file/d/11_7gBI0zF0lt0Q888HyagegN6rgvfBvJ/view?usp=sharing)
 
@@ -43,7 +43,7 @@ We used Google Colab for training and predicting.
 
 and edit the path of translation key in [Kor_ocr_translation.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Kor_ocr_translation.ipynb)
 
-* If Google Colab print error message "RESTART RUNTIME", just restart runtime solve the error.
+* If Google Colab print error message "RESTART RUNTIME", just restarting runtime will solve the error.
 
 ## Train
 
