@@ -44,7 +44,7 @@ and edit the path of translation key in [Kor_ocr_translation.ipynb](https://gith
 
 Original [SRNet](https://github.com/Niwhskal/SRNet) edit text from English to English, but our model need a style conversion model from Korean to English.
 We prepare English text dataset and Korean text dataset.
-You have to check the path in (https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/SRNet/cfg.py#L25), (https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/SRNet/cfg.py#L30), (https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/SRNet/SRNet-Datagen/cfg.py#L2), and some other pathes in ipynb file.
+You have to check the path in (https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/SRNet/cfg.py#L25), (https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/SRNet/cfg.py#L30), and some other pathes in ipynb file.
 After run all cells in [SRNet.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/SRNet.ipynb), train dataset is generated in (https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/SRNet/datasets), and trained model is generated in (https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/SRNet/logs).
 
 Or, you can just use our pretrained model, [train_step-30000.model](https://drive.google.com/file/d/1LY3nfKSK9sk5Jxrj9GglReC-dzGCuLCH/view?usp=sharing). 
