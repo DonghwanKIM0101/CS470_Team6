@@ -1,8 +1,7 @@
 # Style-Preserving Image Translation from Korean to English
-Style-Preserving Image Translation from Korean to Englis
 
 =======
-KAIST CS470 Introduction to Altificial Intelligence
+KAIST 2020Fall CS470 Introduction to Artificial Intelligence
 
 Authorized [Yeongho Jeong](https://github.com/jyeongho)
 
@@ -61,8 +60,15 @@ Or, you can just use our pretrained model, [train_step-30000.model](https://driv
 In [source](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_test/test_image), put the source image that contain Korean texts , and run all cells in [Kor_ocr_translation.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Kor_ocr_translation.ipynb). The outputs are generated in [result](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_test/result_image).
 
 ## Results
-We tes
+![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/네온사인.jpg?raw=true)
+![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/neonsign.jpg?raw=true)
+![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/화장실키.jpg?raw=true)
+![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/toiletkey.jpg?raw=true)
+![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/마녀.jpg?raw=true)
+![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/witch.jpg?raw=true)
 
 ## References
-[Synth
-[Easy OCR](https://github.com/JaidedAI/EasyOCR)
+[SynthText](https://github.com/ankush-me/SynthText): Used to synthesize background image and text to generate train dataset
+[EasyOCR](https://github.com/JaidedAI/EasyOCR): Recoginze Korean text and its bounding box in the image 
+[SRNet](https://github.com/Niwhskal/SRNet): The twin discriminator generative adversarial network that can edit text in any image while maintaining context of the background, font style and color
+[Google Clound Translation](https://cloud.google.com/translate/?hl=ko) : API to translate Korean to English
