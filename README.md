@@ -60,6 +60,8 @@ Or, you can just use our pretrained model, [train_step-30000.model](https://driv
 In [source](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_test/test_image), put the source image that contain Korean texts , and run all cells in [Kor_ocr_translation.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Kor_ocr_translation.ipynb). The outputs are generated in [result](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_test/result_image).
 
 ## Results
+<img src="Results/네온사인.jpg" height="300px"></img>
+<img src="Results/neonsign.jpg" height="300px"></img><br/>
 ![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/네온사인.jpg?raw=true)
 ![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/neonsign.jpg?raw=true)
 ![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/화장실키.jpg?raw=true)
