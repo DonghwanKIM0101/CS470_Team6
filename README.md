@@ -4,11 +4,11 @@ KAIST 2020 Fall CS470 Introduction to Artificial Intelligence
 
 Authorized [Yeongho Jeong](https://github.com/jyeongho)
 
-Authorized [DonghwanKim](https://github.com/DonghwanKIM0101)
+Authorized [Donghwan Kim](https://github.com/DonghwanKIM0101)
 
 Authorized [Seeha Lee](https://github.com/ee12ha0220)
 
-Authorized [SeungilLee](https://github.com/ChoiIseungil)
+Authorized [Seungil Lee](https://github.com/ChoiIseungil)
 
 -----------
 
