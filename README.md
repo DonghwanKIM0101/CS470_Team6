@@ -68,7 +68,10 @@ In [source](https://github.com/DonghwanKIM0101/CS470_Team6/tree/main/scene_text_
 ![alt text](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Results/witch.jpg?raw=true)
 
 ## References
-[SynthText](https://github.com/ankush-me/SynthText): Used to synthesize background image and text to generate train dataset
-[EasyOCR](https://github.com/JaidedAI/EasyOCR): Recoginze Korean text and its bounding box in the image 
-[SRNet](https://github.com/Niwhskal/SRNet): The twin discriminator generative adversarial network that can edit text in any image while maintaining context of the background, font style and color
-[Google Clound Translation](https://cloud.google.com/translate/?hl=ko) : API to translate Korean to English
+* [SynthText](https://github.com/ankush-me/SynthText): Used to synthesize background image and text to generate train dataset
+
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR): Recoginze Korean text and its bounding box in the image 
+
+* [SRNet](https://github.com/Niwhskal/SRNet): The twin discriminator generative adversarial network that can edit text in any image while maintaining context of the background, font style and color
+
+* [Google Clound Translation](https://cloud.google.com/translate/?hl=ko) : API to translate Korean to English
