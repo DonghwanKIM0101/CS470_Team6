@@ -43,7 +43,7 @@ We used Google Colab for training and predicting.
 
 and edit the path of translation key in [Kor_ocr_translation.ipynb](https://github.com/DonghwanKIM0101/CS470_Team6/blob/main/Kor_ocr_translation.ipynb)
 
-* If Google Colab print error message "RESTART RUNTIME", just restart runtime solve the error.
+* If Google Colab print error message "RESTART RUNTIME", just restarting runtime will solve the error.
 
 ## Train
 
