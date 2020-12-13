@@ -9,6 +9,10 @@ The unique style of the text is an important element of graphic design. The colo
 
 
 ## Results
+We tes
+
+## References
+[Synth
+[Easy OCR](https://github.com/JaidedAI/EasyOCR)
 
 
-##
